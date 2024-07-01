@@ -7,6 +7,6 @@ if age < 0:
 elif < 18:
     print("You are a minor")
 elif 18 <= age < 37:
-    print(" you are a youth")  
+    print(" you are a youth")    
 else:
     print("you are an elder")
