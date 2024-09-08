@@ -1,4 +1,4 @@
-
+ 
 yob = int(input("Enter your year of birth?"))
 current_year = 2019
 age = current_year - yob         
