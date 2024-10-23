@@ -7,7 +7,7 @@ def fizzbuzz(numbers, list1):
     lists = numbers + list1
     if len(lists) % 3 == 0 and len(lists) % 5 == 0:
         return("fizzbuzz")
-    elif len(lists) % 3 == 0:
+    elif len(lists) % 3 == 0:  
         return "fizz"
     elif len(lists) % 5 == 0:
         return "buzz"
